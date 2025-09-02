@@ -5,13 +5,21 @@ const About = () => {
         <figure className="photo">
           <img src="/sha/img/avatar.png" alt="myPhoto" />
         </figure>
-        <p>It's nice to meet you! I am <span>Anna</span> :)</p>
+        <p>
+          It's nice to meet you! I am <span>Anna</span> :)
+        </p>
       </div>
       <h1>Who am I</h1>
       <p>
-        I'm a mother of two teenagers, and a member of Helsinki Urban Sketchers.
-        I'm a frontend enthusiast studying at Business College Helsinki to
-        become a full-stack developer. I like to play board games and travel.
+        I'm a frontend / full-stack developer. I studied Information Technologies at
+        Northern Arkhangelsk Federal University, and here in Finland I completed
+        the Java and React Coder course at Helsinki Business College. I have
+        about a year of professional experience, including internships at Unfair
+        Advantage and Kassavirtanen.
+      </p>
+      <p>
+        I'm a mother of two teenagers, and a member
+        of Helsinki Urban Sketchers. I like to play board games and travel.
       </p>
     </section>
   );
