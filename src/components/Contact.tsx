@@ -9,7 +9,7 @@ const Contact = () => {
     <section id="contact">
       <h1>Contacts</h1>
       <div className="contacts">
-        <span>Feel free to contact with me:</span>
+        <p>Feel free to contact with me:</p>
         <ul className="contacts">
           <li>
             <a href="https://www.linkedin.com/in/anna-shestakova-30b5a67/" target="blank">

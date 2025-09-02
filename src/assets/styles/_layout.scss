@@ -5,7 +5,7 @@ html {
 }
 
 body {
-	font-size: 1.6rem;
+	font-size: 10px;
 	font-family: "Wix Madefor Display", sans-serif;
 	padding: 0;
 	margin: 0;
@@ -15,6 +15,10 @@ h1,
 h2,
 h3 {
 	font-family: "Wix Madefor Display", sans-serif;
+}
+p{
+	font-size: 1.6rem;
+	line-height: 1.5;
 }
 
 // HEADER
@@ -52,6 +56,8 @@ header {
 }
 
 .nav-item {
+	font-size: 1.6rem;
+	font-weight: 500;
 	margin-inline-end: 5rem;
 	cursor: pointer;
 }

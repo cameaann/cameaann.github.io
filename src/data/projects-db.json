@@ -31,13 +31,13 @@
 		"technologies":"Vite, React, Nivo library, DayJs, Microsoft Azure cloud and Docker container",
         "longDescription": "Group project. The application receives, analyzes, and presents log data and security alerts in a visual dashboard, enabling the SOC team to detect and respond to security threats."
     },
-	{
-        "id": 5,
-        "description": "Kahvikauppa",
-        "iconUrl": "/sha/img/coffee-shop.png",
-        "src": "https://app-coffee-shop-2.politefield-c4736012.northeurope.azurecontainerapps.io/",
-		"technologies":"Spring Boot, Java, Thymeleaf, Javascript, Microsoft Azure cloud",
-        "longDescription": "A prototype of online store that sells coffee equipment and coffee-related consumer products."
+	 {
+        "id":5,
+        "description": "BMI calculator",
+        "iconUrl": "/sha/img/bmi-calculator.png",
+        "src": "https://cameaann.github.io/bmi-calc/",
+		"technologies":"React",
+        "longDescription": "A simple BMI calculator application built with React."
     },
 	{
         "id": 6,
@@ -47,5 +47,6 @@
 		"technologies":"rest Api, React",
         "longDescription": "The application allows users to search for information about countries."
     }
+
 
 ]
