@@ -3,7 +3,7 @@ const About = () => {
     <section id="about">
       <div className="photo-box">
         <figure className="photo">
-          <img src="/sha/img/avatar.png" alt="myPhoto" />
+          <img src="/img/avatar.png" alt="myPhoto" />
         </figure>
         <p>
           It's nice to meet you! I am <span>Anna</span> :)

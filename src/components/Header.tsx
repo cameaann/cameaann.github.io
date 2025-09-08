@@ -26,7 +26,7 @@ const Header = () => {
     <header id="header">
       <div className="logobox" onClick={() => goToSection("about")}>
         <figure>
-          <img src="/sha/img/logo.svg" alt="logo" className="logo" />
+          <img src="/img/logo.svg" alt="logo" className="logo" />
         </figure>
       </div>
 
