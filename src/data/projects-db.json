@@ -2,7 +2,7 @@
     {
         "id": 1,
         "description": "Advice generator",
-        "iconUrl": "/sha/img/advice-generator.png",
+        "iconUrl": "/img/advice-generator.png",
         "src": "https://cameaann.github.io/advice-generator/",
 		"technologies":"Rest Api, React",
         "longDescription": "This app get random advice from rest Api. Challenge from Frontend Mentor."
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "description": "Interactive card",
-        "iconUrl": "/sha/img/interactive-card.png",
+        "iconUrl": "/img/interactive-card.png",
         "src": "https://cameaann.github.io/interactiveCard/",
 		"technologies":"React",
         "longDescription": "There is a form that you can fill out, and see the card details update in real time. Challenge from Fronend Mentor."
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "description": "GitHub user search Api",
-        "iconUrl": "/sha/img/github-user-search.png",
+        "iconUrl": "/img/github-user-search.png",
         "src": "https://cameaann.github.io/github-user-search-api/",
 		"technologies":"Rest Api, React",
         "longDescription": "GitHub user search app using the GitHub users API. Challenge from Frontend Mentor."
@@ -26,7 +26,7 @@
 	{
         "id": 4,
         "description": "SOC Dashboard",
-        "iconUrl": "/sha/img/soc-dashboard.png",
+        "iconUrl": "/img/soc-dashboard.png",
         "src": "https://cameaann.github.io/soc-dashboard/",
 		"technologies":"Vite, React, Nivo library, DayJs, Microsoft Azure cloud and Docker container",
         "longDescription": "Group project. The application receives, analyzes, and presents log data and security alerts in a visual dashboard, enabling the SOC team to detect and respond to security threats."
@@ -34,7 +34,7 @@
 	 {
         "id":5,
         "description": "BMI calculator",
-        "iconUrl": "/sha/img/bmi-calculator.png",
+        "iconUrl": "/img/bmi-calculator.png",
         "src": "https://cameaann.github.io/bmi-calc/",
 		"technologies":"React",
         "longDescription": "A simple BMI calculator application built with React."
@@ -42,7 +42,7 @@
 	{
         "id": 6,
         "description": "Countries' Information",
-        "iconUrl": "/sha/img/countries-information.png",
+        "iconUrl": "/img/countries-information.png",
         "src": "https://cameaann.github.io/06-maidet-tiedot/",
 		"technologies":"rest Api, React",
         "longDescription": "The application allows users to search for information about countries."
