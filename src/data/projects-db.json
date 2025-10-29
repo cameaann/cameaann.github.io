@@ -54,6 +54,14 @@
         "src": "https://kahvi-kauppa.storks.cloud/",
 		"technologies":"Spring Boot development environment, Java, Thymeleaf, Javascript, Microsoft Azure cloud",
         "longDescription": "A prototype of online store that sells coffee equipment and coffee-related consumer products."
+    },
+    {
+        "id": 8,
+        "description": "Todo List Application",
+        "iconUrl": "/img/todo.jpg",
+        "src": "https://cameaann.github.io/todo/",
+		"technologies":"Vite, React, Typescript, dnd-kit library",
+        "longDescription": "A simple Todo List application built with React."
     }
 
 
