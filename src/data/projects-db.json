@@ -62,6 +62,14 @@
         "src": "https://cameaann.github.io/todo/",
 		"technologies":"Vite, React, Typescript, dnd-kit library",
         "longDescription": "A simple Todo List application built with React."
+    },
+    {
+        "id": 9,
+        "description": "Weather Application",
+        "iconUrl": "/img/weather.jpg",
+        "src": "https://cameaann.github.io/weather-web-app/",
+		"technologies":"Vite, React, Typescript, dayjs, day-ui libraries, Geocoder Autocomplete library,  OpenWeatherMap API",
+        "longDescription": "A Weather application built with React."
     }
 
 
